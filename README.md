@@ -1,3 +1,5 @@
+Hi,I'm Tharun Gowda
+
 # 💫 About Me:
 I'm currently learning Java 
 
